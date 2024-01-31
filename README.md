@@ -2,7 +2,7 @@
 [![MasterHead](https://i.imgur.com/AUF5CCo.jpeg)](https://github.com/naveeddogar)
 
 
-<h1 align="center"><b>нγ, ι αм иανєє∂ ∂οgαя  </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>ℍ𝕐, 𝕀 𝔸𝕄 𝕊𝔸ℂℍ𝕀𝕋ℍ ℂℍ𝔸ℕ𝔻ℝ𝔸 </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 
 <p align="center">
@@ -10,6 +10,8 @@
 </p>
 
 
+
+- 🔭 I’m currently working on [ℂ𝕐𝔹𝔼ℝ-ℙ𝔸ℕ𝔻𝔸-𝕄𝔻](https://github.com/naveeddogar/KING-MD)
 
 - 🔭 I’m currently working on [KING-MD](https://github.com/naveeddogar/KING-MD)
 
